@@ -9,7 +9,7 @@ I enjoy sitting on benches and watch pepole pass by, as well as, a good cup of c
 
 ## Community:
 
-![Pura Vida]("C:\Users\Usuario\Documents\Codes\Git\MSDBerkeley.github.io\Picture..jpeg")
+![Forest Image]("C:\Users\Usuario\Documents\Codes\Git\MSDBerkeley.github.io\images\forest-4185387_1280.jpg")
 
 Here is a great album to listen while doing stuff
 
@@ -18,3 +18,4 @@ Here is a great album to listen while doing stuff
 ## Blog:
 
 1. TBD
+
