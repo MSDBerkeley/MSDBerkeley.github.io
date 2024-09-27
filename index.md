@@ -7,15 +7,17 @@
 MPA Candidate @ Goldman School of Public Policy, US Berkeley. Trying to make sense of the develeopment paradox. 
 I enjoy sitting on benches and watch pepole pass by, as well as, a good cup of coffee and a pice of chocolate.
 
-## Community:
+## Colombia:
 
-![Forest Image](./images/forest-4185387_1280.jpg)
+"La vida no la enseña nadie" - Gabriel García Márquez, El amor en los tiempos del cólera
 
-Here is a great album to listen while doing stuff
+![Bogotá](./images/bogota.jpg")
 
-[Listen on Spotify](https://open.spotify.com/playlist/06yr0JaRRbTx2rZTDbIJCz?si=7161742c1be0467d)
+## Music
+
+[Listen on Spotify, Señor Loop](https://open.spotify.com/intl-es/album/2s1lH466ICjtzwgCDljKQK?si=Bo02GKNyTAufL7wfAMc2bg)
 
 ## Blog:
 
-1. TBD
+1. To be Continued
 
