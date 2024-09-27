@@ -11,7 +11,7 @@ I enjoy sitting on benches and watch pepole pass by, as well as, a good cup of c
 
 "La vida no la enseña nadie" - Gabriel García Márquez, El amor en los tiempos del cólera
 
-![Bogotá](./images/bogota.jpg")
+![Bogotá](./images/bogota.jpg)
 
 ## Music
 
