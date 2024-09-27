@@ -4,20 +4,23 @@
 
 ## Profile: 
 
-MPA Candidate @ Goldman School of Public Policy, US Berkeley. Trying to make sense of the develeopment paradox. 
-I enjoy sitting on benches and watch pepole pass by, as well as, a good cup of coffee and a pice of chocolate.
+MPA Candidate at the Goldman School of Public Policy, UC Berkeley, focused on understanding the development paradox. I also enjoy sitting outside, people-watching, and enjoying a good cup of coffee with some chocolate.
 
-## Colombia:
+I'm half-Colombian, half-German, and grew up in Costa Rica. As a migrant, I’ve always been drawn to understanding the deep-rooted issues in our society, particularly socio-environmental conflicts. I have a deep love for Latin America, its vibrant colors—from black to green to brown—and for its people, landscapes, flowers, oceans, rivers, and mountains.
+
+Currently, I'm exploring how to leverage private-sector resources to accelerate the deployment of Tech for Good initiatives. 
+
+### Colombia:
 
 "La vida no la enseña nadie" - Gabriel García Márquez, El amor en los tiempos del cólera
 
 ![Bogotá](./images/bogota.jpg)
 
-## Music
+### Music
 
-[Listen on Spotify, Señor Loop](https://open.spotify.com/intl-es/album/2s1lH466ICjtzwgCDljKQK?si=Bo02GKNyTAufL7wfAMc2bg)
+[Listen on Spotify](https://open.spotify.com/playlist/06yr0JaRRbTx2rZTDbIJCz?si=c17acd78d0f0441e)
 
-## Blog:
+### Blog:
 
-1. To be Continued
+1. (...)
 
